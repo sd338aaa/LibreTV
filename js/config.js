@@ -26,7 +26,36 @@ const API_SITES = {
         api: 'https://www.example.com/api.php/provide/vod',
         name: '空内容测试源',
         adult: true
-    }
+    },
+    dyttzy: { api: 'http://caiji.dyttzyapi.com/api.php/provide/vod', name: '电影天堂资源', adult: false },
+    rycj: { api: 'https://cj.rycjapi.com/api.php/provide/vod', name: '如意资源', adult: false },
+    bfzy: { api: 'https://bfzyapi.com/api.php/provide/vod', name: '暴风资源', adult: false },
+    tyyszy: { api: 'https://tyyszy.com/api.php/provide/vod', name: '天涯资源', adult: false },
+    xiaomaomi: { api: 'https://zy.xiaomaomi.cc/api.php/provide/vod', name: '小猫咪资源', adult: false },
+    ffzy: { api: 'http://ffzy5.tv/api.php/provide/vod', name: '非凡影视', adult: false },
+    heimuer: { api: 'https://json.heimuer.xyz/api.php/provide/vod', name: '黑木耳', adult: false },
+    zy360: { api: 'https://360zy.com/api.php/provide/vod', name: '360资源', adult: false },
+    iqiyi: { api: 'https://www.iqiyizyapi.com/api.php/provide/vod', name: 'iqiyi资源', adult: false },
+    wolong: { api: 'https://wolongzyw.com/api.php/provide/vod', name: '卧龙资源', adult: false },
+    cjhwba: { api: 'https://cjhwba.com/api.php/provide/vod', name: '华为吧资源', adult: false },
+    jszy: { api: 'https://jszyapi.com/api.php/provide/vod', name: '极速资源', adult: false },
+    dbzy: { api: 'https://dbzy.com/api.php/provide/vod', name: '豆瓣资源', adult: false },
+    mozhuazy: { api: 'https://mozhuazy.com/api.php/provide/vod', name: '魔爪资源', adult: false },
+    mdzy: { api: 'https://www.mdzyapi.com/api.php/provide/vod', name: '魔都资源', adult: false },
+    m3u8apiyhzy: { api: 'https://m3u8.apiyhzy.com/api.php/provide/vod', name: '樱花资源', adult: false },
+    apibdzy: { api: 'https://api.apibdzy.com/api.php/provide/vod', name: '百度云资源', adult: false },
+    wujinapi: { api: 'https://api.wujinapi.me/api.php/provide/vod', name: '无尽资源', adult: false },
+    wwzy: { api: 'https://wwzy.tv/api.php/provide/vod', name: '旺旺短剧', adult: false },
+    ikunzy: { api: 'https://ikunzyapi.com/api.php/provide/vod', name: 'iKun资源', adult: false },
+    ckzy1: { api: 'https://www.ckzy1.com/api.php/provide/vod', name: 'CK资源', adult: true },
+    jkunzy: { api: 'https://jkunzyapi.com/api.php/provide/vod', name: 'jkun资源', adult: true },
+    bwzym3u8: { api: 'https://api.bwzym3u8.com/api.php/provide/vod', name: '百万资源', adult: true },
+    souavzy: { api: 'https://api.souavzy.vip/api.php/provide/vod', name: 'souav资源', adult: true },
+    api155: { api: 'https://155api.com/api.php/provide/vod', name: '155资源', adult: true },
+    apilsbzy1: { api: 'https://apilsbzy1.com/api.php/provide/vod', name: 'lsb资源', adult: true },
+    hsckzy: { api: 'https://hsckzy.vip/api.php/provide/vod', name: '黄色仓库', adult: true },
+    yutuzy10: { api: 'https://yutuzy10.com/api.php/provide/vod', name: '玉兔资源', adult: true }
+
     //ARCHIVE https://telegra.ph/APIs-08-12
 };
 
